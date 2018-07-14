@@ -9,7 +9,7 @@
 (function($) {
 
     $(function() {
-        $("#header").load("/portofilio_site/topnav.html",function () {
+        $("#header").load("/topnav.html",function () {
             skel.init({
                 reset: 'full',
                 breakpoints: {
